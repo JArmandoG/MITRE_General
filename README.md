@@ -12,7 +12,7 @@ Scripts enfocados a Sysmon, Osquery → Splunk, etc. para detección de Táctica
 
 ---
 
-[An exercise](https://www.notion.so/An-exercise-35fa36cffe5b4a4985947d35bf7da2b7)
+[An exercise](Exercise_1.md)
 
 ### General Info:
 
