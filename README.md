@@ -6,7 +6,7 @@
 
 [Analytics](https://car.mitre.org/analytics/)
 
-Scripts enfocados a Sysmon, Osquery → Splunk, etc. para detección de Tácticas y Técnicas
+Sysmon, Osquery → Splunk, etc. TT detections
 
 # MITRE ATT&CK
 
@@ -20,11 +20,9 @@ Scripts enfocados a Sysmon, Osquery → Splunk, etc. para detección de Táctica
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3dec05d4-6cce-467c-b9d0-6944af68283f/Untitled.png)
 
-*"Atomic Indicator": IP address, File Hash, etc. (Indicadores mínimos de presencia de un adversario)*
+*"Atomic Indicators"*
 
 **Usage**: Incident Report / Observable Behavior → Mapping to MITRE ATT&CK
-
-Recommendations:
 
 - UNDERSTAND ATT&CK
 - FIND BEHAVIOR
@@ -35,7 +33,7 @@ Recommendations:
 
 ## General resources
 
-Pdf: Getting started with ATT&CK (GOOD)
+Pdf: Getting started with ATT&CK 
 
 [](https://www.mitre.org/sites/default/files/publications/mitre-getting-started-with-attack-october-2019.pdf)
 
