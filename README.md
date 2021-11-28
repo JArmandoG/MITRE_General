@@ -1,15 +1,9 @@
 # MITRE
 
----
-
-(Check this out):
-
 MITRE ATT&CK DEFENDER (MAD):
 [https://mitre-engenuity.org/mad/](https://mitre-engenuity.org/mad/) (Link: "Get training" → Cybrary → Free when training from MAD)
 [https://mitre-engenuity.org/blog/2021/03/25/mad-press-release/](https://mitre-engenuity.org/blog/2021/03/25/mad-press-release/)[https://www.cybrary.it/catalog/refined/?q=mit](https://www.cybrary.it/catalog/refined/?q=mit)
 Getting Started ATT&CK: [https://attack.mitre.org/resources/getting-started/](https://attack.mitre.org/resources/getting-started/)
-
-[Purple Teaming Notes](MITRE%20b00752de7e2746bc85376eeebf88d418/Purple%20Teaming%20Notes%20e93a4ca80356476096ccaa4dfe0b5aa4.md)
 
 # CAR - CYBER ANALYTICS REPOSITORY
 
@@ -17,7 +11,7 @@ Getting Started ATT&CK: [https://attack.mitre.org/resources/getting-started/](ht
 
 [Analytics](https://car.mitre.org/analytics/)
 
-Scripts enfocados a Sysmon, Osquery → Splunk, etc. para detección de Tácticas y Técnicas
+Sysmon, Osquery → Splunk, etc. Tactics/Techniques detection
 
 # MITRE ATT&CK
 
